@@ -1,8 +1,5 @@
 #include <stdio.h>
 
-#define tamanho 4
-#define numeros 4
-
 int main(){
 	
 	int c, e, v, lista;
